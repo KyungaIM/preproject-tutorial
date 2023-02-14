@@ -13,6 +13,7 @@ const Button = styled.button`
   width: 4rem;
   height: 4rem;
   margin: 1rem;
+  font-size: 1.5rem;
 `;
 const ButtomWrapper = styled.div`
   margin: 1rem;
